@@ -1,7 +1,8 @@
 # LEAK-BETAORIGINS-V11
 Leaked Zip, Apk, Script (without obfuscation!!!)
- DOWNLOAD APK
- https://t.me/c/2440756389/3
+
+DOWNLOAD APK
+https://t.me/c/2440756389/3
 
 What is available?
 1. Leaderboards
