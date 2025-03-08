@@ -2,7 +2,7 @@
 Leaked Zip, Apk, Script (without obfuscation!!!)
 
 DOWNLOAD APK
-https://t.me/c/2440756389/3
+https://www.mediafire.com/file/lspw0acaqrvwpn6/BetaOrigins.apk/file
 
 What is available?
 1. Leaderboards
