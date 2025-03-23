@@ -23,7 +23,7 @@ How to set up a server?
 (BetaOrigins Leak/Server/Logic/Player.py)
 
  2. Change in leaderboards
-"LEAKED BY WILEE1337"
+"LEAKED BY WILEEE1337"
 
  (BetaOrigins Leak/Server/Protocol/Messages/Server/LeaderboardMessage.py)
 (BetaOrigins Leak/Server/Protocol/Messages/Server/LeaderboardBrawler.py)
